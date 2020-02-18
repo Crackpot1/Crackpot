@@ -1,0 +1,2 @@
+# Crackpot
+Just another repository
